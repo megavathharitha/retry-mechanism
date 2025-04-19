@@ -1,0 +1,26 @@
+
+`	java:S112j"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+a
+java:S1192/"KDefine a constant instead of duplicating this literal "retryGroup" 3 times.(ïİÇ«
+b
+java:S1192:"LDefine a constant instead of duplicating this literal "maxAttempts" 3 times.(îŒÈÕ
+|
+java:S1450V"aRemove the "applicationContext" field and declare it as a local variable in the relevant methods.(î‡²şÿÿÿÿ
+p
+java:S1450R"ZRemove the "maxAttempts" field and declare it as a local variable in the relevant methods.(½Š¢•
+x
+java:S1450H"]Remove the "targetBeanName" field and declare it as a local variable in the relevant methods.(©ïÓşÿÿÿÿ
+t
+java:S1450I"_Remove the "targetMethodName" field and declare it as a local variable in the relevant methods.(ˆ´/
+x
+java:S1450W"]Remove the "templateEngine" field and declare it as a local variable in the relevant methods.(£¨ÊÛüÿÿÿÿ
+m
+java:S3776Z"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(ì£•šıÿÿÿÿ
+b
+java:S1854"FRemove this useless assignment to local variable "executionException".(Ôşõ÷ùÿÿÿÿ
+M
+java:S1481u"7Remove this unused "executionException" local variable.(Õ‘Èô
+I
+java:S1068I"4Remove this unused "targetMethodName" private field.(ˆ´/
+M
+java:S1068W"2Remove this unused "templateEngine" private field.(£¨ÊÛüÿÿÿÿ

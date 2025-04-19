@@ -1,0 +1,15 @@
+
+`
+java:S1192!"JDefine a constant instead of duplicating this literal "ROLE_USER" 3 times.(êÉ ¼
+f
+java:S1192"KDefine a constant instead of duplicating this literal "ROLE_ADMIN" 3 times.(®ÙÚËûÿÿÿÿ
+X
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ
+X
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ
+X
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ
+Q
+java:S6437*"6Revoke and change this password, as it is compromised.(ÉÊç¹ÿÿÿÿÿ
+Q
+java:S64374"6Revoke and change this password, as it is compromised.(„¾€Úşÿÿÿÿ
